@@ -1,0 +1,5 @@
+*.pyc
+bootstrap/spiders/data
+data
+images
+.idea
